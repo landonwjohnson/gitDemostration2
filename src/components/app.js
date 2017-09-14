@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Alex from './alex'
+import Paola from './Paola'
 import Jared from './jared'
 import Josh from './josh'
 
@@ -9,7 +10,11 @@ import Josh from './josh'
       <div>
         <h1>React Simple Starter</h1>
           <Alex />
+
+          <Paola/>
+
           <Jared />
+
           <Josh/>
       </div>
     );
