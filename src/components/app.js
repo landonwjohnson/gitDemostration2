@@ -7,7 +7,7 @@ import Josh from './josh'
   render() {
     return (
       <div>
-        <h1>React simple starter</h1>
+        <h1>React Simple Starter</h1>
           <Alex />
           <Jared />
           <Josh/>
