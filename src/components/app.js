@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Alex from './alex'
 import Saundra from './saundra'
 
+import Josh from './josh'
  class App extends Component {
   render() {
     return (
@@ -9,6 +10,7 @@ import Saundra from './saundra'
         <h1>React simple starter</h1>
           <Alex />
           <Saundra />
+          <Josh/>
       </div>
     );
   }
