@@ -15,11 +15,8 @@ import Josh from './josh'
           <Alex />
           <Saundra />
           <Landon />
-
           <Paola/>
-
           <Jared />
-
           <Josh/>
       </div>
     );
